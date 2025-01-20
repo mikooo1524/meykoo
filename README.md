@@ -1,0 +1,2 @@
+# meykoo
+csit seminar
